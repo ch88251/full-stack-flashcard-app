@@ -1,0 +1,140 @@
+{
+  "4: Security Operations": [
+    {
+      "front": "What is the primary goal of application security?",
+      "back": "Preventing data or code within an app from being stolen or intercepted."
+    },
+    {
+      "front": "When capturing a baseline configuration for a network, what is the primary purpose of conducting an inventory assessment?",
+      "back": "To list all hardware and software components."
+    },
+    {
+      "front": "Where is the secure cookie attribute set?",
+      "back": "By the application server in an HTTP response."
+    },
+    {
+      "front": "What is an advanced technique for hardening mobile devices?",
+      "back": "Applying geofencing"
+    },
+    {
+      "front": "What is the main goal of a site survey for wireless equipment?",
+      "back": "To plan and optimize a Wi-Fi network"
+    },
+    {
+      "front": "What is crucial for a successful bring your own device (BYOD) implementation?",
+      "back": "Storage segmentation"
+    },
+    {
+      "front": "What is a key feature of WPA3-Personal in wireless security settings?",
+      "back": "Optional use of 192-bit AES encryption"
+    },
+    {
+      "front": "What does sandboxing help prevent?",
+      "back": "Unauthorized or malicious code from affecting the system"
+    },
+    {
+      "front": "What is one of the primary roles of monitoring in cybersecurity?",
+      "back": "Continuous surveillance of systems"
+    },
+    {
+      "front": "What could the monitoring system in a financial institution be programmed to do upon detecting fraudulent activities?",
+      "back": "Temporarily freeze the account"
+    },
+    {
+      "front": "What is asset management?",
+      "back": "The process of identifying, tracking, and managing IT assets like hardware, software, and data."
+    },
+    {
+      "front": "Why is unauthorized software risky?",
+      "back": "It may introduce vulnerabilities or bypass security controls."
+    },
+    {
+      "front": "What are some ways to harden a switch?",
+      "back": "Disable unused ports, implement port security, and use VLANs."
+    },
+    {
+      "front": "What are some ways to harden a router?",
+      "back": "Change default passwords, enable firewall features, and disable remote management."
+    },
+    {
+      "front": "What are some ways to harden a cloud environment?",
+      "back": "Use strong access controls, encrypt data at rest and in transit, and regularly audit configurations."
+    },
+    {
+      "front": "What are some ways to harden a server?",
+      "back": "Apply security patches, disable unnecessary services, restricting permissions, and use firewalls."
+    }
+  ],
+  "5.3: Summarize various types of security implications across diverse technology platforms": [
+    {
+      "front": "What is the primary risk of using outdated operating systems?",
+      "back": "They often lack security patches and are vulnerable to known exploits."
+    },
+    {
+      "front": "What is the implication of using unsupported legacy software?",
+      "back": "No vendor support means higher risk of compromise without patches or fixes."
+    }
+  ],
+  "Acronyms": [
+    {
+      "front": "What does MDM stand for?",
+      "back": "Mobile device management"
+    },
+    {
+      "front": "What does BYOD stand for?",
+      "back": "Bring your own device"
+    },
+    {
+      "front": "What does DLP stand for?",
+      "back": "Data loss prevention"
+    },
+    {
+      "front": "What does EDR stand for?",
+      "back": "Endpoint detection and response"
+    },
+    {
+      "front": "What does SIEM stand for?",
+      "back": "Security information and event management"
+    },
+    {
+      "front": "What does IDS stand for?",
+      "back": "Intrusion detection system"
+    },
+    {
+      "front": "What does IPS stand for?",
+      "back": "Intrusion prevention system"
+    },
+    {
+      "front": "What does VPN stand for?",
+      "back": "Virtual private network"
+    },
+    {
+      "front": "What does SSL stand for?",
+      "back": "Secure sockets layer"
+    },
+    {
+      "front": "What does TLS stand for?",
+      "back": "Transport layer security"
+    },
+    {
+      "front": "What does WAF stand for?",
+      "back": "Web application firewall"
+    },
+    {
+      "front": "What does NAC stand for?",
+      "back": "Network access control"
+    },
+    {
+      "front": "What does MFA stand for?",
+      "back": "Multi-factor authentication"
+    },
+    {
+      "front": "What does SSO stand for?",
+      "back": "Single sign-on"
+    },
+    {
+      "front": "What does IAM stand for?",
+      "back": "Identity and access management"
+    }
+  ]
+}
