@@ -1,2 +1,2 @@
-CREATE DATABASE api_dev;
-CREATE DATABASE api_test;
+CREATE DATABASE flashcard_dev;
+CREATE DATABASE flashcard_test;
